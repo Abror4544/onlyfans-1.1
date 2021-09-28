@@ -228,6 +228,9 @@ body {
     background-size: 100%;
     padding-bottom: 3rem;
   }
+  .header-imgblock img{
+    height: 45vw;
+  }
 
   .header .logo {
     width: 165px;
